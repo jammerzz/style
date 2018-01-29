@@ -65,12 +65,13 @@ height:75%
 	height:auto;
 	padding-top:8rem;
 	padding-bottom:8rem;
-	background:linear-gradient(90deg, rgba(255, 255, 255, .1) 0, rgba(255, 255, 255, .1) 100%), url(../img/bg-masthead.jpg);
+	background:linear-gradient(90deg, rgba(255, 255, 255, .1) 0, rgba(255, 255, 255, .1) 100%), url(../img/burger.jpg);
 	background-position:center center;
 	background-repeat:no-repeat;
 	background-size:cover
 }
 .masthead h1 {
+	color:#000;
 	font-size:4rem;
 	margin:0;
 	padding:0
@@ -95,7 +96,7 @@ font-size:5.5rem
 -o-transition:all .4s ease 0s;
 transition:all .4s ease 0s;
 	transform:translateX(250px);
-	background:#1d809f;
+	background:#343738;
 	border-left:1px solid rgba(255, 255, 255, .1)
 }
 .sidebar-nav {
